@@ -20,7 +20,9 @@ Professional Experience
 
 ------
 
-* since August 2017: __Lecturer (Assistant Professor)__, _University of Glasgow_, UK.
+* since July 2020: __Lecturer (Assistant Professor)__, _University of Edinburgh_, UK.
+
+* 2017 - 2020: __Lecturer (Assistant Professor)__, _University of Glasgow_, UK.
 
 * 2014 - 2017: __Postdoctoral Research Associate__, _The University of Edinburgh_, UK.
 

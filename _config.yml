@@ -80,14 +80,14 @@ analytics:
 author:
   name             : "Michel Steuwer"
   avatar           : "profile.jpg"
-  bio              : "I am a lecturer (assistant professor) in the <a href=\"https://www.gla.ac.uk/schools/computing/\" style=\"color: inherit; text-decoration: none;\">School of Computing Science</a> at the <a href=\"http://www.glasgow.ac.uk\"  style=\"color: inherit; text-decoration: none;\">University of Glasgow</a>."
-  location         : "Glasgow, Scotland"
+  bio              : "I am a lecturer (assistant professor) in compilers and runtime systems in the <a href=\"https://www.ed.ac.uk/informatics/\" style=\"color: inherit; text-decoration: none;\">School of Informatics</a> at the <a href=\"https://www.ed.ac.uk\"  style=\"color: inherit; text-decoration: none;\">University of Edinburgh</a>."
+  location         : "Edinburgh, Scotland"
   employer         :
-  institution      : "University of Glasgow"
-  institution-url  : "https://www.gla.ac.uk/"
+  institution      : "University of Edinburgh"
+  institution-url  : "https://www.ed.ac.uk"
   googlescholar    : "https://scholar.google.com/citations?user=XdXJRZEAAAAJ"
   msacademic       : "https://academic.microsoft.com/#/profile/MichelSteuwer"
-  email            : "michel.steuwer@glasgow.ac.uk"
+  email            : "michel.steuwer@ed.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
