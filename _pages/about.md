@@ -16,18 +16,16 @@ Prior to that I was a postdoctoral researcher at the [School of Informatics](htt
 I received my PhD from the [University of Münster](http://www.wwu.de/en) in Germany.
 
 
-
-PhD opportunities
-------
-I am looking for talented students with a strong interest in practical and/or theoretical aspects of parallel programming for pursuing a PhD.
-If your are interested, please drop me an [email](contact) describing your experiences and research interests.
-
-
 Research Focus
 ------
 
 I am interested in all aspects of parallel programming.
 Particular research interests of mine include _performance portability_, _structured parallel programming_, _heterogeneous and GPU computing_, and _novel compilation techniques for high-level languages_.
+
+<!-- PhD opportunities
+------
+I am looking for talented students with a strong interest in practical and/or theoretical aspects of parallel programming for pursuing a PhD.
+If your are interested, please drop me an [email](contact) describing your experiences and research interests. -->
 
 
 What is parallel programming and why is it important?

@@ -6,7 +6,7 @@ redirect_from:
   - /team/
 author_profile: true
 ---
-{% assign people = site.people | sort: 'start-year' | group_by: 'type' %}
+{% assign people = site.people | sort: 'start-year' | reverse | group_by: 'type' %}
 
 <h2>PhD Students</h2>
 

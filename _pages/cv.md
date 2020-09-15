@@ -11,7 +11,7 @@ redirect_from:
 
 ------
 
-<a href="https://docs.google.com/viewer?url=https://github.com/michel-steuwer/cv/raw/master/latex/michel_steuwer.pdf" style="text-decoration: none;"><span class="fa-stack fa-1x" style="margin-right:1em"><i class="fa fa-file fa-2x"></i></span>Curriculum Vitae as PDF</a>
+<a href="https://github.com/michel-steuwer/cv/blob/master/latex/michel_steuwer.pdf" style="text-decoration: none;"><span class="fa-stack fa-1x" style="margin-right:1em"><i class="fa fa-file fa-2x"></i></span>Curriculum Vitae as PDF</a>
 
 <h1 style="text-align: center; margin-top: 2em;">Dr. Michel Steuwer</h1>
 
@@ -20,7 +20,7 @@ Professional Experience
 
 ------
 
-* since July 2020: __Lecturer (Assistant Professor)__, _University of Edinburgh_, UK.
+* since July 2020: __Lecturer (Assistant Professor) in Compilers and Runtime Systems__, _University of Edinburgh_, UK.
 
 * 2017 - 2020: __Lecturer (Assistant Professor)__, _University of Glasgow_, UK.
 
@@ -42,11 +42,14 @@ University Education
   * Thesis: _SkelCL — A Portable Multi-GPU Skeleton Library_
   * Overall grade in computer science: very good (85 %)
 
-Awarded Honours
+Awarded Honours and Achievements
 ------
 
 ------
 
+* __Best Paper Award Winner__ at ACM __CGO 2018__
+* __HiPEAC Paper Award Winner__ for our paper at __ASPLOS 2018__
+* __Most cited papers__ at __ICFP 2015__, __CGP 2017__, and __CGO 2018__
 * PhD thesis honoured with the highest possible grade __Summa cum laude__
 * Nominated as one of 34 candidates for the __prize for best dissertation__ completed in 2015 in Informatics at a German, Austrian, or Swiss University. This highly prestigious prize is awarded annually by the German Informatics Society (GI).
 
@@ -93,6 +96,8 @@ Research Community Activities
 
 ### Community Activities
 
+* I was the _research student committee convener_ of the School of Computing Science at the University of Glasgow (2019-20). Overseeing the academic progression of over 100 PhD students.
+* I organised _Upwards_, a seminar series in Glasgow discussing all aspects of research life to faciliate knowledge sharing among academics and providing career advices.
 * I co-organised the seminar of the Programming Language Research Programme at the School of Informatics in Edinburgh together with James Cheney, an series of talks covering a broad range of topics related to programming languages.
 * I organised the _Humble C++ Programmer Group_, a group discussing practical programming topics in C++ targeted at PhD students to improve their coding skills.
 
@@ -119,20 +124,12 @@ External reviewer for conferences:
 * International Parallel Computing Conference (ParCo)
 * Parallel Computing Technologies (PaCT)
 
-Research Collaborations
+PhD Examination Committee
 ------
+* 08/2020: Bastian Hagedorn, University of Münster, external examiner
+* 09/2019: Sebastian Ertel, Technical University of Dresden, external examiner
+* 09/2018: Blair Archibald, University of Glasgow, internal examiner
 
-------
-
-* Christophe Dubach, University of Edinburgh
-* Sam Lindley, University of Edinburgh
-* Robert Atkey, University of Strathclyde
-* Ryan Newton, University of Indiana Bloomington
-* Sergei Gorlatch, University of Münster
-* Alastair Murray, Codeplay
-* Grigori Fursin and Anton Lokhmotov, dividiti Ltd.
-* Mario Wolczko and Tim Harris, Oracle Labs
-* Robert Hundt, Google
 
 Publications
 ------

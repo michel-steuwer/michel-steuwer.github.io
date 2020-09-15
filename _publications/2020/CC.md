@@ -8,6 +8,7 @@ venue: "ACM SIGPLAN 2020 International Conference on Compiler Construction (CC 2
 venue-url: "https://conf.researchr.org/home/CC-2020"
 proceedings: "Proceedings of the 29th International Conference on Compiler Construction, CC 2020, San Diego, CA, USA, February 22-23, 2020"
 paperurl: '/files/publications/2020/CC-2020.pdf'
-bibtexurl: '/files/publications/2020/CC-2020.bib'
+dblp: 'conf/cc/PizzutiSD20'
+acm-id: '3373125'
 projects: ['Lift']
 ---

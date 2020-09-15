@@ -5,10 +5,18 @@ permalink: /research/
 author_profile: true
 ---
 
+- **[ELEVATE](https://elevate-lang.org/)** is a language for describing optimization strategies in a composable way.
+
+- **[RISE](https://rise-lang.org/)** is a functional pattern-based data-parallel language.
+  Programs are expressed at a high level in RISE.
+  Programs are then transformed using a set of rewrite rules that encode implementation and optimization choices.
+  The _Shine_ compiler generates high-performance parallel C or OpenCL code while preserving the optimization choices made during rewriting.<br/>
+  We are currently actively working on a prototype implementation in Scala available on [GitHub](https://github.com/rise-lang/rise) as well as an implementation in of [RISE in MLIR](https://rise-lang.org/mlir) that is also available on [GitHub](https://github.com/rise-lang/mlir).<br/>
+  RISE is a spiritual successor to the Lift project.
+
 - **[Lift](http://www.lift-project.org)** is a project aiming to achieve _performance portability_ across modern parallel architectures. The _Lift compiler_ transforms a program expressed in the high-level  _Lift programming language_ into optimised low-level OpenCL code. In this transformation optimisations are automatically explored using a set of rewrite rules.
   Lift is open source software available on [GitHub](https://github.com/lift-project/lift).
-  Lift has been described in multiple research [publications](/publications-lift/).
-  Lift is actively developed by a [research team](http://www.lift-project.org/index.html#team) including multiple PhD students based in Scotland and Germany.
+  Lift has been described in multiple research [publications](/publications-lift/) and is developed by a [research team](http://www.lift-project.org/index.html#team) including multiple PhD students based in Scotland and Germany.
 
 - **[PACXX](http://pacxx.github.io/page/)** allows programming of accelerators with modern C++.
   PACXX is developed by [Michael Haidl](http://www.uni-muenster.de/PVS/en/mitarbeiter/haidl.shtml) at the University of Münster.

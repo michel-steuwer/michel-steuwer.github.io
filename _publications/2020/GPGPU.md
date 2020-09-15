@@ -8,6 +8,7 @@ venue: "13th Annual Workshop on General Purpose Processing using Graphics Proces
 venue-url: "https://insight-archlab.github.io/gpgpu.html"
 proceedings: "Proceedings of the 13th Annual Workshop on General Purpose Processing using Graphics Processing Unit, GPGPU@PPoPP 2020"
 paperurl: '/files/publications/2020/GPGPU-2020.pdf'
-bibtexurl: '/files/publications/2020/GPGPU-2020.bib'
+dblp: 'conf/ppopp/RemmelgHLSGD20'
+acm-id: '3366428.3380769'
 projects: ['Lift']
 ---

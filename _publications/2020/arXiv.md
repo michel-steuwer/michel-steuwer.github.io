@@ -7,5 +7,5 @@ authors: "Bastian Hagedorn, Johannes Lenfers, Thomas Koehler, Sergei Gorlatch, a
 venue: "Technical Report"
 paperurl: '/files/publications/2020/arXiv-2020.pdf'
 dblp: 'journals/corr/abs-2002-02268'
-projects: ['Elevate']
+projects: ['ELEVATE']
 ---
