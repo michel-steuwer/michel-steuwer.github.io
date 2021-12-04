@@ -1,6 +1,6 @@
 ---
 collection: people
-type: "Co-Supervised PhD Students"
+type: "PhD Students"
 with: "Aaron Smith"
 name: "Martin Lücke"
 topic: "A Functional Compiler Intermediate Representation for Machine Learning"

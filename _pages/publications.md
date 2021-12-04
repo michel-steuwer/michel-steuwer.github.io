@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Publications"
+title: "Publications by Date"
 permalink: /publications/
 author_profile: true
 ---
@@ -10,8 +10,6 @@ author_profile: true
  {% if site.author.googlescholar or site.author.dblp %} 
   You can also find my publications on {% if site.author.dblp %} <a href="{{site.author.dblp}}">my dblp profile</a> {% endif %} {% if site.author.googlescholar and site.author.dblp %} and {% endif %} {% if site.author.googlescholar %} <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>{% endif %}.
  {% endif %}
-
-You find my publications also [organised by project](/publications-by-project/) and [organised by type](/publications-by-type/).
 
 <h3>Year of Publication</h3>
 <ul style="padding-left: 1em;">
@@ -23,14 +21,15 @@ You find my publications also [organised by project](/publications-by-project/) 
   {% endif %}
 {% endfor %}
 </ul>
-<div style="clear: both;"></div>
+<div style="clear: both; padding-bottom: .5em;"></div>
+You find my publications also [organised by project](/publications-by-project/) and [organised by type](/publications-by-type/).
 
 {% for post in site.publications reversed  %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 
   {% if forloop.first %}
-  <h2 id="{{this_year}}">{{this_year}}</h2>
+  <h3 id="{{this_year}}">{{this_year}}</h3>
   <ul class="publications">
   {% endif %}
 

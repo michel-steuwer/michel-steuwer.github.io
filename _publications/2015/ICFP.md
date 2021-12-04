@@ -1,5 +1,5 @@
 ---
-title: "Generating Performance Portable Code using Rewrite Rules<br/> <span style=\"font-size: 75%;\">From High-Level Functional Expressions to High-Performance OpenCL Code</span>"
+title: "Generating Performance Portable Code using Rewrite Rules: From High-Level Functional Expressions to High-Performance OpenCL Code"
 collection: publications
 type: "Conference Paper"
 date: 2015-08-31

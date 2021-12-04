@@ -14,7 +14,7 @@ I am (or have been) teaching the following courses.
   {% capture next_year %}{{ post.previous.year }}{% endcapture %}
 
   {% if forloop.first %}
-  <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
+  <h3 id="{{ this_year }}-ref">{{this_year}}</h3>
   <ul class="teaching">
   {% endif %}
 
@@ -25,7 +25,7 @@ I am (or have been) teaching the following courses.
   {% else %}
   {% if this_year != next_year %}
   </ul>
-  <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
+  <h3 id="{{ next_year }}-ref">{{next_year}}</h3>
   <ul>
   {% endif %}
   {% endif %}

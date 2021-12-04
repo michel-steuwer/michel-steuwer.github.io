@@ -3,8 +3,8 @@
   {% if type == '' %}
     {% continue %}
   {% endif %}
-  <h2 id="{{type | downcase | replace:' ','-'}}">{{type}}</h2>
-  <ul>
+  <h3 id="{{type | downcase | replace:' ','-'}}">{{type}}</h3>
+  <ul style="padding-left: 20px">
 
 {% assign last_year = '' %}
 {% assign need_to_close_ul = false %}
@@ -15,8 +15,10 @@
   {% if year != last_year %}
     {% if last_year != '' %}
 </ul>
+</li>
     {% endif %}
-<h3 id="{{ year }}-ref">{{year}}</h3>
+<li style="list-style-type: none;">
+<h4 style="margin-top: 0px;" id="{{ year }}-ref">{{year}}</h4>
 <ul>
   {% assign need_to_close_ul = true %}
   {% capture last_year %}{{year}}{% endcapture %}
@@ -39,6 +41,7 @@
 
 {%if need_to_close_ul %}
 </ul>
+</li>
 {% endif %}
 
   </ul>

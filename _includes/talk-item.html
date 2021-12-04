@@ -18,8 +18,7 @@
     <p>
         <b>{% if post.type == "Invited Talk" %}Invited Talk: {% endif %}</b>
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">
-            <b>{{ title }}</b>
-        </a><br/>
+            <b>{{ title | strip }}</b></a>,
         <i>{{ post.venue }} in {{ post.location }}</i>.
     </p>
 

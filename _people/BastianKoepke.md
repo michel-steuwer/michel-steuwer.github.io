@@ -1,6 +1,6 @@
 ---
 collection: people
-type: "Co-Supervised PhD Students"
+type: "PhD Students"
 with: "Sergei Gorlatch"
 name: "Bastian Köpcke"
 topic: "Correct Compilation of High-Level Programs to High-Performance Code"

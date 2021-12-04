@@ -1,6 +1,6 @@
 ---
 collection: people
-type: "Former Co-Supervised PhD Students"
+type: "Former PhD Students"
 with: "Sergei Gorlatch"
 name: "Bastian Hagedorn"
 topic: "Systematic Optimization of High Level Stencil Programs"

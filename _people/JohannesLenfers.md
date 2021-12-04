@@ -1,6 +1,6 @@
 ---
 collection: people
-type: "Co-Supervised PhD Students"
+type: "PhD Students"
 with: "Sergei Gorlatch"
 name: "Johannes Lenfers"
 topic: "Searching for the optimisation strategies of HPC software"

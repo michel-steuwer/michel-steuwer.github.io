@@ -13,7 +13,9 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$triplicate                 : 'triplicate_ot_a', monospace;
+$monaco                     : Monaco, Consolas, "Lucida Console", monospace;
+$monospace                  : $triplicate;
 
 /* sans serif typefaces */
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;

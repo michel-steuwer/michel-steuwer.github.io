@@ -1,5 +1,5 @@
 ---
-title: "Patterns and Rewrite Rules for Systematic Code Generation<br/> <span style=\"font-size: 75%;\">From High-Level Functional Patterns to High-Performance Opencl Code</span>"
+title: "Patterns and Rewrite Rules for Systematic Code Generation: From High-Level Functional Patterns to High-Performance Opencl Code"
 collection: publications
 type: "Technical Report"
 date: 2015-02-09
