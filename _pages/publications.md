@@ -40,7 +40,7 @@ You find my publications also [organised by project](/publications-by-project/) 
   {% else %}
   {% if this_year != next_year %}
   </ul>
-  <h2 id="{{next_year}}">{{next_year}}</h2>
+  <h3 id="{{next_year}}">{{next_year}}</h3>
   <ul>
   {% endif %}
   {% endif %}
