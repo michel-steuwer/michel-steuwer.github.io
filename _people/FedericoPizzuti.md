@@ -1,6 +1,6 @@
 ---
 collection: people
-type: "Co-Supervised PhD Students"
+type: "PhD Students"
 with: "Christophe Dubach"
 name: "Federico Pizzuti"
 topic: "Efficient Code Generation for Irregular Applications with Lift"

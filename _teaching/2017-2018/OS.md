@@ -1,11 +1,10 @@
 ---
 title: "Operating Systems"
 collection: teaching
-type: "Undergraduate course (Level H/M)"
-permalink: /teaching/2017-2018-OS
+type: "undergraduate course"
 venue: "University of Glasgow, School of Computing Science"
 year: 2017-2018
-moodle-id: 900
+notes: "course lead by Wim Vanderbauwhede, about 80 students"
 ---
 
 The aims of the Operating Systems course are:

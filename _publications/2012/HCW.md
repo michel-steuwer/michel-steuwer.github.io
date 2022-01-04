@@ -1,10 +1,12 @@
 ---
+label: W3
 title: "dOpenCL: Towards a Uniform Programming Approach for Distributed Heterogeneous Multi-/Many-Core Systems"
 collection: publications
 type: "Workshop Paper"
 date: 2012-05-21
 authors: "Philipp Kegel, Michel Steuwer, and Sergei Gorlatch"
-venue: "21st International Heterogeneity in Computing Workshop (HCW) @ IPDPS"
+short-venue: HCW
+venue: "International Heterogeneity in Computing Workshop @ IPDPS"
 venue-url: "http://hcw.eecs.wsu.edu/previous"
 proceedings: "26th IEEE International Parallel and Distributed Processing Symposium Workshops & PhD Forum, IPDPS 2012, Shanghai, China, May 21-25, 2012"
 paperurl: '/files/publications/2012/HCW-2012.pdf'

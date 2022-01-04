@@ -1,11 +1,10 @@
 ---
-title: "Team Project 3"
+title: "Software Engineering Team Projects"
 collection: teaching
-type: "Undergraduate course (Level H/M)"
-permalink: /teaching/2017-2018-TP3
+type: "undergraduate course"
 venue: "University of Glasgow, School of Computing Science"
 year: 2017-2018
-moodle-id: 902
+notes: "course lead by Tim Storer, about 160 students"
 ---
 
 The team project is an integral and distinctive part of any Glasgow Computing Science degree.

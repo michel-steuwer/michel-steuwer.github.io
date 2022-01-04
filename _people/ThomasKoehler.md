@@ -2,7 +2,7 @@
 collection: people
 type: "PhD Students"
 name: "Thomas K&oelig;hler"
-topic: "Practical Development of Efficient and Portable Image Processing Applications"
+topic: "Domain-Extensible Optimizing Compilers"
 link: https://bastacyclop.gitlab.io
 start-year: 2018
 picture: "files/people/ThomasKoehler.jpg"

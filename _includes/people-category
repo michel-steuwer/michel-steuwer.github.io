@@ -1,8 +1,0 @@
-{% for category in people %}
-{% if category.name == include.name %}
-  <h3 id="{{category.name | downcase | replace:' ','-'}}">{{category.name}}</h3>
-  <ul>
-    {% include people-items %}
-  </ul>
-{% endif %}
-{% endfor %}

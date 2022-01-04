@@ -1,15 +1,19 @@
 ---
+label: C11
 title: "High Performance Stencil Code Generation with Lift"
 collection: publications
 type: "Conference Paper"
 date: 2018-02-24
 authors: "Bastian Hagedorn, Larisa Stoltzfus, Michel Steuwer, Sergei Gorlatch, and Christophe Dubach"
-venue: "2018 International Symposium on Code Generation and Optimization (CGO)"
+short-venue: CGO
+venue: "International Symposium on Code Generation and Optimization"
 venue-url: "http://www.cgo.org/cgo2018/"
 proceedings: "Proceedings of the 2018 International Symposium on Code Generation and Optimization, CGO 2018, Vienna, Austria, February 24-28, 2018"
 paperurl: '/files/publications/2018/CGO-2018.pdf'
 dblp: 'conf/cgo/HagedornSSGD18'
 acm-id: '3168824'
+artifact: 'https://gitlab.com/larisa.stoltzfus/liftstencil-cgo2018-artifact/'
+award: 'Winner of the Best Paper Award'
 projects: ['Lift']
 ---
 

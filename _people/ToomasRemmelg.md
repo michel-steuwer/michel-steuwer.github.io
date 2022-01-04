@@ -1,6 +1,6 @@
 ---
 collection: people
-type: "Former Co-Supervised PhD Students"
+type: "Former PhD Students"
 with: "Christophe Dubach"
 name: "Toomas Remmelg"
 topic: "Automatic Performance Optimisation of Parallel Programs for GPUs via Rewrite Rules"

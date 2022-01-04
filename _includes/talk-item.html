@@ -1,26 +1,41 @@
 {% include base_path %}
+{% capture label %}talk-{{forloop.index}}{% endcapture %}
 
-{% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
-{% else %}
-  {% assign teaser = site.teaser %}
-{% endif %}
-
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.title %}
-{% endif %}
-
-<li class="{{ include.type | default: "list" }}__item" style="margin-bottom: -1em;">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    
-    <p>
-        <b>{% if post.type == "Invited Talk" %}Invited Talk: {% endif %}</b>
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">
-            <b>{{ title | strip }}</b></a>,
-        <i>{{ post.venue }} in {{ post.location }}</i>.
-    </p>
-
-  </article>
-</li>
+<article class="talk-item">
+    <div class="ref">
+        {% if talk.slideurl or talk.videourl %}
+        <a id="{{label}}">
+        {% endif %}
+            <i class="far fa-comment color1"></i>
+        {% if talk.slideurl or talk.videourl %}
+        </a>
+        {% endif %}
+        <ul id="{{label}}-ul" style="display: none;">
+            {% if talk.slideurl %}
+                <li><a href="{{talk.slideurl}}"><i class="fa fa-file-pdf" aria-hidden="true"></i> Slides</a></li>
+            {% endif %}
+            {% if talk.videourl %}
+                <li><a href="{{talk.videourl}}"><i class="fa fa-video" aria-hidden="true"></i> Video</a></li>
+            {% endif %}
+        </ul>
+    </div>
+    <header>
+        <span class="talk-title">{{talk.title}}</span>
+        <span class="talk-venue">
+            {% if talk.venue-url %}<a href="{{talk.venue-url}}">{% endif %}
+            {{talk.venue}}
+            {% if talk.venue-url %}</a>{% endif %}
+        </span>
+    </header>
+    <script type="text/javascript" defer="defer">
+        (function($) {
+            $('#{{label}}').click(function(event) {
+                $("#{{label}}-ul").fadeToggle("fast", function() {});
+                event.stopPropagation();
+            });
+            $(document).click(function() {
+                $("#{{label}}-ul").fadeOut("fast", function() {})
+            });
+        })(jQuery);
+    </script>
+</article>

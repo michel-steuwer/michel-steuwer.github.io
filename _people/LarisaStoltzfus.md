@@ -1,6 +1,6 @@
 ---
 collection: people
-type: "Former Co-Supervised PhD Students"
+type: "Former PhD Students"
 with: "Christophe Dubach"
 name: "Larisa Stoltzfus"
 topic: "Stencil-based HPC Applications in Lift"

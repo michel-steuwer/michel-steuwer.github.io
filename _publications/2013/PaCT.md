@@ -1,10 +1,12 @@
 ---
+label: C3
 title: "SkelCL: Enhancing OpenCL for High-Level Programming of Multi-GPU Systems"
 collection: publications
 type: "Conference Paper"
 date: 2013-09-30
 authors: "Michel Steuwer and Sergei Gorlatch"
-venue: "Parallel Computing Technologies - 12th International Conference, PaCT 2013"
+short-venue: PaCT
+venue: "Parallel Computing Technologies"
 venue-url: "http://ssd.sscc.ru/conf/pact2013/"
 proceedings: "Parallel Computing Technologies - 12th International Conference, PaCT 2013, St. Petersburg, Russia, September 30 - October 4, 2013. Proceedings"
 paperurl: '/files/publications/2013/PaCT-2013.pdf'

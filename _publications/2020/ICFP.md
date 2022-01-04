@@ -1,10 +1,12 @@
 ---
+label: C14
 title: "Achieving high-performance the functional way: a functional pearl on expressing high-performance optimizations as rewrite strategies"
 collection: publications
 type: "Journal Article"
 date: 2020-08-01
 authors: "Bastian Hagedorn, Johannes Lenfers, Thomas Koehler, Xueying Qin, Sergei Gorlatch, Michel Steuwer"
-venue: "Proceedings of the ACM on Programming Languages (ICFP 2020)"
+short-venue: ICFP
+venue: "International Conference on Functional Programming 2020"
 venue-url: "https://icfp20.sigplan.org/"
 paperurl: '/files/publications/2020/ICFP-2020.pdf'
 dblp: 'journals/pacmpl/HagedornLKQGS20'

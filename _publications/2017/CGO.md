@@ -1,16 +1,19 @@
 ---
+label: C8
 title: "Lift: A Functional Data-Parallel IR for High-Performance GPU Code Generation"
 collection: publications
 type: "Conference Paper"
 date: 2017-02-04
 authors: "Michel Steuwer, Toomas Remmelg, and Christophe Dubach"
-venue: "2017 International Symposium on Code Generation and Optimization (CGO)"
+short-venue: CGO
+venue: "International Symposium on Code Generation and Optimization"
 venue-url: "http://www.cgo.org/2017/"
 proceedings: "Proceedings of the 2017 International Symposium on Code Generation and Optimization, CGO 2017, Austin, TX, USA, February 4-8, 2017"
 paperurl: '/files/publications/2017/CGO-2017.pdf'
 dblp: 'conf/cgo/SteuwerRD17'
 acm-id: '3049841'
 google-scholar-url: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:M3ejUd6NZC8C"
+artifact: https://gitlab.com/michel-steuwer/cgo_2017_artifact
 projects: ['Lift']
 ---
 

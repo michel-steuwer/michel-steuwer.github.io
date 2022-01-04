@@ -1,11 +1,10 @@
 ---
 title: "Systems Programming"
 collection: teaching
-type: "Undergraduate course (Level H/M)"
-permalink: /teaching/2019-2020-SP
+type: "undergraduate course"
 venue: "University of Glasgow, School of Computing Science"
 year: 2019-2020
-moodle-id: 15388
+notes: "about 200 students"
 ---
 
 The aims of the Systems Programming course are:
