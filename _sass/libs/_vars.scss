@@ -1,0 +1,35 @@
+// Misc.
+	$misc: (
+		z-index-base:	10000
+	);
+
+// Duration.
+	$duration: (
+		header: 0.5s
+	);
+
+// Size.
+	$size: (
+		header: 275px
+	);
+
+// Font.
+	$font: (
+	);
+
+// Palette.
+	$palette: (
+	);
+
+// Colors:
+	$color1: #0b345f;
+	$color1-light: #114F92;
+	$color1-75: rgba(11, 52, 95, 0.75);
+	// $color1: #a50034;
+	// $color1-light: #CC0041;
+	$color3: #ffffff;
+	$color3-75: rgba(255, 255, 255, 0.75);
+	$color4: #000000;
+
+// Fonts:
+	$sans-serif-font: "concourse_ot_3_book", sans-serif;

@@ -1,0 +1,25 @@
+{% include base_path %}
+
+{% if section.identifier %}
+    {% capture identifier %}{{section.identifier}}{% endcapture %}
+{% else %}
+    {% assign identifier = section.title %}
+{% endif %}
+
+{% if section.class %}
+    {% capture class %}{{section.class}}{% endcapture %}
+{% else %}
+    {% assign class = "" %}
+{% endif %}
+
+
+
+<section id="{{identifier | downcase}}" class="{{class}}">
+    <div class="container">
+        <header>
+            <h2>{{section.title}}</h2>
+        </header>
+
+        {{section.content}}
+    </div>
+</section>

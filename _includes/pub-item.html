@@ -1,0 +1,48 @@
+{% include base_path %}
+{% capture label %}pub-{{paper.label | downcase}}{% endcapture %}
+
+<article class="pub-item">
+    <div class="ref">
+        <a id="{{label}}">[{{paper.label | upcase}}]</a>
+        <ul id="{{label}}-ul" style="display: none;">
+            {% if paper.paperurl %}
+                <li><a href="{{paper.paperurl}}"><i class="fa fa-file-pdf" aria-hidden="true"></i> PDF</a></li>
+            {% endif %}
+            {% if paper.videourl %}
+                <li><a href="{{paper.videourl}}"><i class="fa fa-video" aria-hidden="true"></i> Video</a></li>
+            {% endif %}
+            {% if paper.dblp or paper.bibtexurl %}
+                {% if paper.dblp %}
+                    <li><a href="https://dblp.org/rec/{{paper.dblp}}?view=bibtex"><i class="fa fa-at"></i> BibTeX</a></li>
+                {% else %}
+                    <li><a href="{{paper.bibtexurl}}"><i class="fa fa-at"></i> BibTeX</a></li>
+                {% endif %}
+            {% endif %}
+            {% if paper.acm-id %}
+                <li><a href="http://dl.acm.org/citation.cfm?id={{paper.acm-id}}"><i class="ai ai-acmdl"></i> ACM DL</a></li>
+            {% endif %}
+            {% if paper.dblp %}
+                <li><a href="https://dblp.org/rec/{{paper.dblp}}"><i class="ai ai-dblp"></i> DBLP</a></li>
+            {% endif %}
+            {% if paper.google-scholar-url %}
+            <li><a href="{{paper.google-scholar-url}}"><i class="ai ai-google-scholar"></i> Google Scholar</a></li>
+            {% endif %}
+        </ul>
+    </div>
+    <header>
+        <div class="pub-title"><a href="{{paper.paperurl}}">{{paper.title}}</a></div>
+        <div class="pub-venue"><div class="tooltip" venue-title="{{paper.venue}}"><a href="{{paper.venue-url}}">{{paper.short-venue}}</a></div></div>
+        <div class="pub-authors">{{paper.authors}}</div>
+    </header>
+    <script type="text/javascript" defer="defer">
+        (function($) {
+            $('#{{label}}').click(function(event) {
+                $("#{{label}}-ul").fadeToggle("fast", function() {});
+                event.stopPropagation();
+            });
+            $(document).click(function() {
+                $("#{{label}}-ul").fadeOut("fast", function() {})
+            });
+        })(jQuery);
+    </script>
+</article>

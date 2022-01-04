@@ -1,0 +1,8 @@
+{% include base_path %}
+
+<li>
+    <a href="{{ student.link }}">{{ student.name }}</a>,
+    {{ student.start-year }} - {{ student.end-year }}, <em>{{ student.topic }}</em>{% if student.with %}, supervised with {{ student.with }}{% endif %}.
+    <br/>
+    Now: {{ student.now }}
+</li>
