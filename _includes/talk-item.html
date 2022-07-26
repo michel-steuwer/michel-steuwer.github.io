@@ -20,12 +20,8 @@
         </ul>
     </div>
     <header>
-        <span class="talk-title">{{talk.title}}</span>
-        <span class="talk-venue">
-            {% if talk.venue-url %}<a href="{{talk.venue-url}}">{% endif %}
-            {{talk.venue}}
-            {% if talk.venue-url %}</a>{% endif %}
-        </span>
+        <span class="talk-title">{{talk.title | strip}}</span>
+        <span class="talk-venue">{% if talk.venue-url %}<a href="{{talk.venue-url}}">{% endif %}{{talk.venue | strip}}{% if talk.venue-url %}</a>{% endif %}</span>
     </header>
     <script type="text/javascript" defer="defer">
         (function($) {
