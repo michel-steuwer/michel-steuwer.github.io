@@ -9,6 +9,6 @@ short-venue: SLE
 venue: "International Conference on Software Language Engineering"
 venue-url: "https://2022.splashcon.org/home/sle-2022?"
 proceedings: "SLE '22: 15th ACM SIGPLAN International Conference on Software Language Engineering, Auckland, New Zealand, December 6 - 7, 2022"
-paperurl: '/files/publications/2022/SLE2022.pdf'
+paperurl: '/files/publications/2022/SLE-2022.pdf'
 projects: []
 ---

@@ -9,7 +9,7 @@ short-venue: Euro-Par
 venue: "Euro-Par: International Conference on Parallel and Distributed Computing"
 venue-url: ""
 proceedings: "Euro-Par 2022: Parallel Processing - 28th International Conference on Parallel and Distributed Computing, Glasgow, UK, August 22-26, 2022, Proceedings"
-paperurl: '/files/publications/2022/Euro-Par2022.pdf'
+paperurl: '/files/publications/2022/Euro-Par-2022.pdf'
 dblp: 'conf/europar/PizzutiSD22'
 projects: [Rise]
 ---
