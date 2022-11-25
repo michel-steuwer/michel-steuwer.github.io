@@ -1,5 +1,5 @@
 ---
-label: C19
+label: C20
 title: "Investigating Magic Numbers: Improving the Inlining Heuristic in the Glasgow Haskell Compiler"
 collection: publications
 type: "Conference Paper"
@@ -10,5 +10,6 @@ venue: "ACM SIGPLAN International Symposium on Haskell"
 venue-url: "https://www.haskell.org/haskell-symposium/2022/index.html"
 proceedings: "Proceedings of the 15th ACM SIGPLAN International Symposium on Haskell, Ljubljana, Slovenia, September 15-16, 2022"
 paperurl: '/files/publications/2022/Haskell-2022.pdf'
+dblp: 'conf/haskell/HollenbeckOS22'
 projects: []
 ---

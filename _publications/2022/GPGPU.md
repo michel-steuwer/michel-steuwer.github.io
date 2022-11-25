@@ -10,5 +10,6 @@ venue: "Workshop on General Purpose Processing using Graphics Processing Unit @ 
 venue-url: "https://sarchlab.github.io/gpgpu2022/"
 proceedings: "Proceedings of the 13th Annual Workshop on General Purpose Processing using Graphics Processing Unit, GPGPU@PPoPP 2022"
 paperurl: '/files/publications/2022/GPGPU-2022.pdf'
+dblp: 'conf/ppopp/SiefkeKGS22'
 projects: ['RISE']
 ---
