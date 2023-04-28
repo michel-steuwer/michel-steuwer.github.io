@@ -8,5 +8,5 @@ link: http://homepages.inf.ed.ac.uk/s1147290/
 start-year: 2016
 end-year: 2021
 picture: "files/people/LarisaStolzfus.jpg"
-now: Application Consultant at EPCC
+now: Software Engineer
 ---
