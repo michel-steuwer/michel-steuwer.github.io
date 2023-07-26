@@ -10,4 +10,4 @@ I am a professor at [Technische Universität Berlin](https://www.tu.berlin) and 
 
 Before joining TU Berlin, I was a lecturer (assistant professor) in the [School of Informatics](https://www.ed.ac.uk/informatics/) at the [University of Edinburgh](http://www.ed.ac.uk/), a lecturer at the [School of Computing Science](https://www.gla.ac.uk/schools/computing/) at the [University of Glasgow](https://www.gla.ac.uk/) and a postdoctoral researcher at the University of Edinburgh. I received my PhD from the [University of Münster](http://www.wwu.de/en) in Germany.
 
-You can download my [CV here](https://github.com/michel-steuwer/cv/raw/main/latex/michel_steuwer.pdf).
+You can download my [CV here](https://github.com/michel-steuwer/cv/raw/main/michel-steuwer.pdf).
