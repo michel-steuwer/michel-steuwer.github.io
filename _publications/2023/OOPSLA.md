@@ -1,6 +1,6 @@
 ---
 label: C22
-title: "Achieving high-performance the functional way: a functional pearl on expressing high-performance optimizations as rewrite strategies"
+title: "Structural Subtyping as Parametric Polymorphism"
 collection: publications
 type: "Journal Article"
 date: 2023-10-25
