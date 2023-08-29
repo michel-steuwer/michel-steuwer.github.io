@@ -1,5 +1,5 @@
 ---
-label: C22
+label: C23
 title: "BaCO: A Fast and Portable Bayesian Compiler Optimization Framework"
 collection: publications
 type: "Conference Report"

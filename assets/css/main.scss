@@ -317,10 +317,10 @@
 	.ref {
 		width: 6ch;
 		float: left;
+		color: $color1;
 
 		a {
 			cursor: pointer;
-			color: $color1;
 			font-weight: bold;
 		}
 
@@ -539,7 +539,7 @@
 
 	ul {
 		list-style: circle;
-		color: $color1;
+		// color: $color1;
 		padding-left: 1em;
 
 		li {
