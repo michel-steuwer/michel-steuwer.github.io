@@ -30,9 +30,18 @@
         </ul>
     </div>
     <header>
-        <div class="pub-title"><a href="{{paper.paperurl}}">{{paper.title}}</a></div>
+        <div class="pub-title">
+            {% if paper.paperurl %}
+                <a href="{{paper.paperurl}}">{{paper.title}}</a>
+            {% else %}
+                {{paper.title}}
+            {% endif %}
+        </div>
         <div class="pub-venue"><div class="tooltip" venue-title="{{paper.venue}}"><a href="{{paper.venue-url}}">{{paper.short-venue}}</a></div></div>
         <div class="pub-authors">{{paper.authors}}</div>
+        {% if paper.note %}
+            <div class="pub-note"><span style="font-variant: small-caps; font-weight: bold;">Note:</span> {{paper.note}}</div>
+        {% endif %}
     </header>
     <script type="text/javascript" defer="defer">
         (function($) {
