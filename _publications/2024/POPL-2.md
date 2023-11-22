@@ -8,7 +8,7 @@ authors: "Thomas Koehler, Andrés Goens, Siddharth Bhat, Tobias Grosser, Phil Tr
 short-venue: POPL
 venue: "Symposium on Principles of Programming Languages"
 venue-url: "https://popl24.sigplan.org"
-note: "Conditionally accepted"
+paperurl: '/files/publications/2024/POPL-2024-2.pdf'
 bibtexurl: '/files/publications/2024/POPL-2024-2.bib'
 projects: []
 ---

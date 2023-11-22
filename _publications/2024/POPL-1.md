@@ -8,7 +8,7 @@ authors: "Xueying Qin, Liam O'Connor, Rob van Glabbeek, Peter Hoefner, Ohad Kamm
 short-venue: POPL
 venue: "Symposium on Principles of Programming Languages"
 venue-url: "https://popl24.sigplan.org"
-note: "Conditionally accepted"
+paperurl: '/files/publications/2024/POPL-2024-1.pdf'
 bibtexurl: '/files/publications/2024/POPL-2024-1.bib'
 projects: []
 ---
