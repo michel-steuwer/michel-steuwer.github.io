@@ -1,5 +1,5 @@
 ---
-label: C23
+label: C24
 title: "Shoggoth - A Formal Foundation for Strategic Rewriting"
 collection: publications
 type: "Conference Report"

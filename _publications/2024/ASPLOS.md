@@ -1,15 +1,13 @@
 ---
-label: C25
-title: "BaCO: A Fast and Portable Bayesian Compiler Optimization Framework"
+label: C26
+title: "A shared compilation stack for distributed-memory parallelism in stencil DSLs"
 collection: publications
 type: "Conference Paper"
-date: 2023-12-31
-authors: "Erik Hellsten, Artur Souza, Johannes Lenfers, Rubens Lacouture, Olivia Hsu, Adel Ejjeh, Fredrik Kjolstad, Michel Steuwer, Kunle Olukotun, and Luigi Nardi"
+date: 2024-04-27
+authors: "George Bisbas, Anton Lydike, Emilien Bauer, Nick Brown, Mathieu Fehr, Lawrence Mitchell, Gabriel Rodriguez-Canal, Maurice Jamieson, Paul H.J. Kelly, Michel Steuwer and Tobias Grosser"
 short-venue: ASPLOS
 venue: "International Conference on Architectural Support for Programming Languages and Operating Systems"
-venue-url: "https://www.asplos-conference.org/2023/"
-paperurl: 'files/publications/2024/ASPLOS-2023.pdf'
-biburl: 'files/publications/2024/ASPLOS-2023.bib'
-dblp: 'journals/corr/abs-2212-11142'
+venue-url: "https://www.asplos-conference.org/2024/"
+note: "Conditionally accepted at ASPLOS 2024"
 projects: []
 ---

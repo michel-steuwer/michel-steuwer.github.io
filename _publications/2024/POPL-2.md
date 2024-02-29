@@ -1,5 +1,5 @@
 ---
-label: C24
+label: C25
 title: "Guided Equality Saturation"
 collection: publications
 type: "Conference Report"
