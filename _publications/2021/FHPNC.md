@@ -9,7 +9,7 @@ short-venue: FHPNC
 venue: "International Workshop on Functional High-Performance and Numerical Computing"
 venue-url: "https://icfp21.sigplan.org/home/FHPNC-2021#program"
 proceedings: "Proceedings of the 9th ACM SIGPLAN International Workshop on Functional High-Performance and Numerical Computing @ FHPNC 2021, Virtual Event, Korea, August 22, 2021."
-paperurl: 'https://dl.acm.org/doi/10.1145/3471873.3472977'
+paperurl: '/files/publications/2021/FHPNC-2021.pdf'
 dblp: 'conf/icfp/PizzutiSD21'
 acm-id: '3471873.3472977'
 doi: '10.1145/3471873.3472977'
