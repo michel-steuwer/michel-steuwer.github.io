@@ -8,6 +8,6 @@ authors: "Bastian Köpcke, Sergei Gorlatch, and Michel Steuwer"
 short-venue: PLDI
 venue: "Symposium on Programming Language Design and Implementation"
 venue-url: "https://pldi24.sigplan.org"
-note: "Conditionally accepted at PLDI 2024"
+paperurl: '/files/publications/2024/PLDI-2024.pdf'
 projects: []
 ---
