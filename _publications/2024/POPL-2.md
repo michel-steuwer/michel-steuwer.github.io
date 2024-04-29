@@ -9,6 +9,7 @@ short-venue: POPL
 venue: "Symposium on Principles of Programming Languages"
 venue-url: "https://popl24.sigplan.org"
 paperurl: '/files/publications/2024/POPL-2024-2.pdf'
-bibtexurl: '/files/publications/2024/POPL-2024-2.bib'
+dblp: 'journals/pacmpl/KoehlerGBGTS24'
+acm-id: '3632900'
 projects: []
 ---

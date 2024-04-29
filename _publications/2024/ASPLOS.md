@@ -8,6 +8,8 @@ authors: "George Bisbas, Anton Lydike, Emilien Bauer, Nick Brown, Mathieu Fehr, 
 short-venue: ASPLOS
 venue: "International Conference on Architectural Support for Programming Languages and Operating Systems"
 venue-url: "https://www.asplos-conference.org/2024/"
-note: "Conditionally accepted at ASPLOS 2024"
+paperurl: '/files/publications/2024/ASPLOS-2024.pdf'
+dblp: 'conf/asplos/BisbasLB0FMRJKS24'
+acm-id: '3620666.3651344'
 projects: []
 ---

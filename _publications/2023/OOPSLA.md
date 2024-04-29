@@ -9,6 +9,6 @@ short-venue: OOPSLA
 venue: "OOPSLA 2023"
 venue-url: "https://2023.splashcon.org/track/splash-2023-oopsla"
 paperurl: '/files/publications/2023/OOPSLA-2023.pdf'
-bibtexurl: '/files/publications/2023/OOPSLA-2023.bib'
+dblp: 'journals/pacmpl/TangHMSDFL23'
 projects: []
 ---
